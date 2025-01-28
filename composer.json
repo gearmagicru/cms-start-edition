@@ -17,6 +17,7 @@
         "gearmagicru/gm-composer-plugin": "*",
         "gearmagicru/gm-skeleton": "^1.0",
         "gearmagicru/gm-panel": "^1.0",
+        "gearmagicru/gm-panel-assets": "^1.0",
         "gearmagicru/gm-theme-impact": "*",
         "gearmagicru/gm-wd-article": "*"
     },
