@@ -1,1 +1,1 @@
-# cms-start-edition
+# GM CMS: Start edition
