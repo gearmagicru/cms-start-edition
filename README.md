@@ -12,7 +12,7 @@
   - Composer - для управления зависимостями веб-приложения GearMagic. Для получения помощи по установке Composer прочтите документацию https://getcomposer.org/doc/00-intro.md;
   - Git - для управления версиями. Скачать отсюда https://git-scm.com/downloads (пользователи MacOS также могут использовать Brew, а пользователи Linux могут использовать встроенный менеджер пакетов, например apt, yum и т. д.).
 
-## Copyright
+## Авторские права
 * (C) 2015 GearMagic, Inc. <https://www.gearmagic.ru>
 * Распространяется по лицензии GNU General Public License версии 2 или более поздней.
-* См. [Подробности лицензии]([https://docs.joomla.org/Special:MyLanguage/Joomla_Licenses](https://github.com/gearmagicru/cms-start-edition/blob/master/LICENSE.md))
+* См. [Подробности лицензии]([https://docs.joomla.org/Special:MyLanguage/Joomla_Licenses](https://github.com/gearmagicru/cms-start-edition/blob/master/LICENSE.md)
