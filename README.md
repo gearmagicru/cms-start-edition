@@ -13,6 +13,6 @@
   - Git - для управления версиями. Скачать отсюда https://git-scm.com/downloads (пользователи MacOS также могут использовать Brew, а пользователи Linux могут использовать встроенный менеджер пакетов, например apt, yum и т. д.).
 
 ## Авторские права
-* (C) 2015 GearMagic, Inc. <https://www.gearmagic.ru>
+* (C) 2015 GearMagic, <https://www.gearmagic.ru>
 * Распространяется по лицензии GNU General Public License версии 2 или более поздней.
-* См. [Подробности лицензии]([https://docs.joomla.org/Special:MyLanguage/Joomla_Licenses](https://github.com/gearmagicru/cms-start-edition/blob/master/LICENSE.md)
+* См. [Подробности лицензии](https://github.com/gearmagicru/cms-start-edition/blob/master/LICENSE.md)
