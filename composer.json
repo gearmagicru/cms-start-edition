@@ -27,6 +27,9 @@
             "gearmagicru/gm-composer-plugin": true
         }
     },
+    "scripts": {
+        "post-package-install": "Gm\\ComposerPlugin\\Events::postPackageInstall"
+    },
     "minimum-stability": "dev",
     "prefer-stable": true
 }
