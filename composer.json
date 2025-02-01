@@ -27,6 +27,13 @@
             "gearmagicru/gm-composer-plugin": true
         }
     },
+    "extra": {
+        "gm": {
+            "replace": [
+                ["/gm.setup/queries/tables.php", "/modules/gm//gm.setup/queries/tables.php"]
+            ]
+        }
+    },
     "scripts": {
         "post-package-install": "Gm\\ComposerPlugin\\Events::postPackageInstall"
     },
