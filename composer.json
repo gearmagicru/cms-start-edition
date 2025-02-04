@@ -20,6 +20,7 @@
         "gearmagicru/gm-panel": "^1.0",
         "gearmagicru/gm-panel-assets": "^1.0",
         "gearmagicru/gm-theme-green": "*",
+        "gearmagicru/gm-theme-impact": "*",
         "gearmagicru/gm-setup": "^1.0",
         "gearmagicru/gm-wd-article": "*"
     },
