@@ -15,13 +15,13 @@
     "require": {
         "php": ">=8.2",
         "gearmagicru/gm-composer-plugin": "*",
-        "gearmagicru/gm-skeleton": "^1.0",
-        "gearmagicru/gm-site": "^1.0",
-        "gearmagicru/gm-panel": "^1.0",
-        "gearmagicru/gm-panel-assets": "^1.0",
+        "gearmagicru/gm-skeleton": "1.*",
+        "gearmagicru/gm-site": "1.*",
+        "gearmagicru/gm-panel": "1.*",
+        "gearmagicru/gm-panel-assets": "1.*",
         "gearmagicru/gm-theme-green": "*",
         "gearmagicru/gm-theme-impact": "*",
-        "gearmagicru/gm-setup": "^1.0",
+        "gearmagicru/gm-setup": "1.*",
         "gearmagicru/gm-wd-article": "*"
     },
     "config": {
