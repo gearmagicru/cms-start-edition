@@ -13,9 +13,7 @@ $vars = array_merge_recursive(
     // «GearMagic: Система управления» (GM MS)
     require('variables/ms.php'),
     // «GearMagic: Управление сайтом» (GM CMS)
-    require('variables/cms.php'),
-    // Редакция «Стандарт» (GM CMS:STD)
-    require('variables/cms-std.php')
+    require('variables/cms.php')
 );
 
 // смещение всех идентификаторов
