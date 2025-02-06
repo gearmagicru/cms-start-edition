@@ -14,9 +14,7 @@ $data = array_merge_recursive(
     // «GearMagic: Система управления» (GM MS)
     require('tables/ms.php'),
     // «GearMagic: Управление сайтом» (GM CMS)
-    require('tables/cms.php'),
-    // Редакция «Стандарт» (GM CMS:STD)
-    require('tables/cms-std.php')
+    require('tables/cms.php')
 );
 
 // если шаг "Сборка" и применить демонстрационные данные
