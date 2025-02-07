@@ -6,7 +6,7 @@
 - Компоненты веб-приложения GearMagic - это модули, расширения модулей, виджеты 
 установленные в каталоге "/modules" веб-приложения, включающие в себя программный 
 код и вспомогательные файлы.
-- Библиотеки GearMagic - это набор сценариев PHP расположенных в каталоге "/vendor/gearmagic"
+- Библиотеки GearMagic - это набор сценариев PHP расположенных в каталоге "/vendor/gearmagicru"
 веб-приложения.
 
 ## Применение лицензий
@@ -16,8 +16,8 @@
 
 ### Лицензия MIT
 
-Copyright (c) 2024, Веб-студия GearMagic (https://gearmagic.ru).   
-Copyright (c) 2024, Anton Tivonenko <anton.tivonenko@gmail.com>.
+Copyright (c) 2025, Веб-студия GearMagic (https://gearmagic.ru).
+Copyright (c) 2025, Anton Tivonenko <anton.tivonenko@gmail.com>.
 
 Данная лицензия разрешает лицам, получившим копию данного программного обеспечения и сопутствующей 
 документации (в дальнейшем именуемыми «Программное Обеспечение»), безвозмездно использовать 
@@ -38,8 +38,8 @@ Copyright (c) 2024, Anton Tivonenko <anton.tivonenko@gmail.com>.
 
 ### BSD 3-Clause
 
-Copyright (c) 2024, Веб-студия GearMagic (https://gearmagic.ru).   
-Copyright (c) 2024, Anton Tivonenko <anton.tivonenko@gmail.com>.
+Copyright (c) 2025, Веб-студия GearMagic (https://gearmagic.ru).
+Copyright (c) 2025, Anton Tivonenko <anton.tivonenko@gmail.com>.
 
 Разрешается повторное распространение и использование как в виде исходного кода, так и в двоичной форме, 
 с изменениями или без, при соблюдении следующих условий:
