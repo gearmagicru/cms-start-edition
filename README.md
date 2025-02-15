@@ -2,10 +2,9 @@
 
 [![Latest Stable Version](https://img.shields.io/packagist/v/gearmagicru/cms-start-edition.svg)](https://packagist.org/packages/gearmagicru/cms-start-edition)
 [![Total Downloads](https://img.shields.io/packagist/dt/gearmagicru/cms-start-edition.svg)](https://packagist.org/packages/gearmagicru/cms-start-edition)
-[![Author](https://img.shields.io/badge/author-anton.tivonenko@gmail.com-blue.svg)](mailto:anton.tivonenko@gmail)
 [![Source Code](https://img.shields.io/badge/source-gearmagicru/cms--start--edition-blue.svg)](https://github.com/gearmagicru/gm-fe-rss)
 [![Software License](https://img.shields.io/badge/license-GPL--2.0-brightgreen.svg)](https://github.com/gearmagicru/cms-start-edition/blob/master/LICENSE.md)
-![Application: CMS](https://img.shields.io/badge/application-cms-green.svg)
+![GearMagic Application: CMS](https://img.shields.io/badge/application-cms-green.svg)
 ![Edition: Start](https://img.shields.io/badge/edition-start-green.svg)
 ![php 8.2+](https://img.shields.io/badge/php-min%208.2-red.svg)
 
