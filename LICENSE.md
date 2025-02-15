@@ -13,10 +13,12 @@
 
 Лицензия MIT применяется для всех компонентов веб-приложения GearMagic.  
 Лицензия BSD 3-Clause применяется для всех библиотек GearMagic.
+Лицензия [GPL-2.0 license](https://github.com/spdx/license-list-data/blob/main/text/GPL-2.0-or-later.txt) применяется для всех редакций веб-приложения GearMagic опубликованных на GitHub.
 
 ### Лицензия MIT
 
 Copyright (c) 2025, Веб-студия GearMagic (https://gearmagic.ru).
+
 Copyright (c) 2025, Anton Tivonenko <anton.tivonenko@gmail.com>.
 
 Данная лицензия разрешает лицам, получившим копию данного программного обеспечения и сопутствующей 
@@ -39,6 +41,7 @@ Copyright (c) 2025, Anton Tivonenko <anton.tivonenko@gmail.com>.
 ### BSD 3-Clause
 
 Copyright (c) 2025, Веб-студия GearMagic (https://gearmagic.ru).
+
 Copyright (c) 2025, Anton Tivonenko <anton.tivonenko@gmail.com>.
 
 Разрешается повторное распространение и использование как в виде исходного кода, так и в двоичной форме, 
