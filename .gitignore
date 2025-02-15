@@ -1,6 +1,3 @@
-config/*.so.php
-runtime
-
 # кэш каталогов
 Thumbs.db
 *.DS_Store
