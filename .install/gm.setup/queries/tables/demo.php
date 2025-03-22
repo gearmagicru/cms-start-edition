@@ -13,6 +13,4 @@
 $isRu = $installer->isRu();
 
 return [
-    // права доступа к информационным панелям
-    '{{panel_dashboard_roles}}' => require('demo/panel_dashboard_roles.php'),
 ];
